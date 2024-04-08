@@ -1,7 +1,7 @@
 body{background-color: black;
     background-image: url(unnamed.jpg);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: auto;
     background-size: auto;
 }
 h1{font-family: 'Times New Roman', Times, serif
