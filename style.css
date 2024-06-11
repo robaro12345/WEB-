@@ -1,0 +1,87 @@
+.gradient-background {
+    background: linear-gradient(300deg, black,black, #3282B8, black);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+.main {
+    background-color: black;
+}
+.Luke_Skywalker{
+    background-color: black;
+}
+.Leia_Skywalker{
+    background-color: black;
+}
+.Yoda{
+    background-color: black;
+}
+.Han_Solo {
+    background-color: black;
+}
+.Darth_Vader{
+    background-color: black;
+}
+.gradient-background1 {
+    background: linear-gradient(300deg, black,black, green, black);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+.gradient-background2 {
+    background: linear-gradient(300deg, black,black, white, black);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
+.gradient-background3 {
+    background: linear-gradient(300deg, black,black,red, black);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
